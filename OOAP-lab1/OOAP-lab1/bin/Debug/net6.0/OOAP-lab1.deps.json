@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOAP-lab1/1.0.0": {
+        "runtime": {
+          "OOAP-lab1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOAP-lab1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
