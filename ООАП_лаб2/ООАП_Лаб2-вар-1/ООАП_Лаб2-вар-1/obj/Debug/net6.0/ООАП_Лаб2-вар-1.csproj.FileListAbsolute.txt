@@ -1,0 +1,15 @@
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\bin\Debug\net6.0\ООАП_Лаб2-вар-1.exe
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\bin\Debug\net6.0\ООАП_Лаб2-вар-1.deps.json
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\bin\Debug\net6.0\ООАП_Лаб2-вар-1.runtimeconfig.json
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\bin\Debug\net6.0\ООАП_Лаб2-вар-1.dll
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\bin\Debug\net6.0\ООАП_Лаб2-вар-1.pdb
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\ООАП_Лаб2-вар-1.csproj.AssemblyReference.cache
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\ООАП_Лаб2-вар-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\ООАП_Лаб2-вар-1.AssemblyInfoInputs.cache
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\ООАП_Лаб2-вар-1.AssemblyInfo.cs
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\ООАП_Лаб2-вар-1.csproj.CoreCompileInputs.cache
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\ООАП_Лаб2-вар-1.dll
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\refint\ООАП_Лаб2-вар-1.dll
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\ООАП_Лаб2-вар-1.pdb
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\ООАП_Лаб2-вар-1.genruntimeconfig.cache
+C:\Users\HellPlay\source\repos\ООАП_Лаб2-вар-1\ООАП_Лаб2-вар-1\obj\Debug\net6.0\ref\ООАП_Лаб2-вар-1.dll
